@@ -1,4 +1,4 @@
-# Gradient-Descent-Finds-Global-Mimimum
+# Gradient-Descent-Finds-Global-Minimum
 
 Gradient descent is an algorithm to perform optimization
 of neural network. In a neural network the objective
